@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/cargo/contracts/fuzz/rand-0.8.8",
+    "dependabot/github_actions/actions/setup-node-7",
+    "dependabot/github_actions/appleboy/scp-action-1.0.0",
+    "dependabot/github_actions/appleboy/ssh-action-1.2.5",
+    "dependabot/npm_and_yarn/frontend/frontend-minor-patch-7a8c307e6c",
+    "dependabot/npm_and_yarn/root-minor-patch-825229e697",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/cargo/contracts/fuzz/rand-0.8.8": "main",
+    "dependabot/github_actions/actions/setup-node-7": "main",
+    "dependabot/github_actions/appleboy/scp-action-1.0.0": "main",
+    "dependabot/github_actions/appleboy/ssh-action-1.2.5": "main",
+    "dependabot/npm_and_yarn/frontend/frontend-minor-patch-7a8c307e6c": "main",
+    "dependabot/npm_and_yarn/root-minor-patch-825229e697": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/cargo/contracts/fuzz/rand-0.8.8",
+    "dependabot/github_actions/actions/setup-node-7",
+    "dependabot/github_actions/appleboy/scp-action-1.0.0",
+    "dependabot/github_actions/appleboy/ssh-action-1.2.5",
+    "dependabot/npm_and_yarn/frontend/frontend-minor-patch-7a8c307e6c",
+    "dependabot/npm_and_yarn/root-minor-patch-825229e697",
+    "origin"
+  ]
+}
