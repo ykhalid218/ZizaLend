@@ -30,3 +30,6 @@ packages/types/src/generated.ts
 # reproduced by `node build.mjs`, and the audio additionally needs a network round trip.
 scripts/video/audio/
 scripts/video/build/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
